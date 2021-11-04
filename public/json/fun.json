@@ -1,0 +1,86 @@
+[
+    {
+        "name": "⑻Ball",
+        "description": "You play a game in which you insert a question and it gives you a RANDOM answer."
+    },
+    {
+        "name": "Ascii",
+        "description": "Copies the entered text and converts it into ascii format."
+    },
+   {
+        "name": "CoinFlip",
+        "description": "It is a game in which you get a face or a seal."
+    },
+    {
+        "name": "Say",
+        "description": "You enter a text and the bot sends it."
+    },
+    {
+        "name": "Sharpen",
+        "description": "You put a filter on the image and it looks very pixelated."
+    },
+    {
+        "name": "Trigger",
+        "description": "Create a gif of your image that goes really crazy."
+    },
+    {
+        "name": "Ohno",
+        "description": "Create a meme with the text you enter"
+    },
+    {
+        "name": "Rainbow",
+        "description": "An image is created with your photo and a rainbow filter."
+    },
+    {
+        "name": "Shit",
+        "description": "Create a meme with a user's or your own photo."
+    },
+    {
+        "name": "Trash",
+        "description": "Create a trash meme with a user's photo or your own."
+    },
+    {
+        "name": "Wanted",
+        "description": "Create a wanted meme with a user's or your own photo."
+    },
+    {
+        "name": "Wasted",
+        "description": "Create a dead person meme with a user's or your own photo."
+    },
+    {
+        "name": "Blush",
+        "description": "Send a blushing anime gif."
+    },
+    {
+        "name": "Cry",
+        "description": "Send an anime gif of cry."
+    },
+    {
+        "name": "Dance",
+        "description": "Send a gif of anime dancing."
+    },
+    {
+        "name": "Hug",
+        "description": "Send a gif in which 2 people hug each other (Anime)."
+    },
+    {
+        "name": "Kiss",
+        "description": "Send a gif in which 2 people kiss."
+    },
+    {
+        "name": "Mirror",
+        "description": "A mirror meme is played with your or someone else's picture."
+    },
+    {
+        "name": "Rip",
+        "description": "A gravestone with your photo or someone else's is displayed."
+    },
+    {
+        "name": "Yaoi",
+        "description": "A gay kiss is shown."
+    },
+    {
+        "name": "Yuri",
+        "description": "A lesbian kiss is shown."
+    }
+]

@@ -1,0 +1,11 @@
+.srv-icon{
+    border: 3px solid #fff;
+    border-radius: 5em;
+    display: inline-block;
+}
+.opacity-50{
+    transition: opacity 0.3s ease-in-out;
+}
+.opacity-50:hover{
+    opacity:1 !important;
+}

@@ -1,0 +1,83 @@
+.nav-left {
+  display: flex;
+  position: relative;
+}
+.nav-left-content {
+  border-top: 6px solid #cf91ff;
+  position: fixed;
+  width: 20%;
+  height: 100%;
+  background-color: #1a1b22;
+  top: 0;
+}
+.nav-left-top {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.server-name {
+  font-weight: bold;
+  display: inline-block;
+  color: #b6b6b6;
+  padding-left: 3%;
+  font-size: 120%;
+}
+.body-content {
+  width: 80%;
+  float: right;
+}
+.right-0 {
+  right: 0;
+}
+.footerGuild {
+  padding: 1em;
+  background: #1a1b22;
+  height: auto;
+  width: 80%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+.fw-medium {
+  font-weight: 500;
+}
+.linkGrayText {
+  color: #5462b3 !important;
+}
+.commandBox {
+  background: #1e1f25;
+  border-radius: 10px 10px 0 0;
+  font-size: 24px;
+  text-align: center;
+  padding: 0.3em;
+  font-weight: bold;
+  position: relative;
+}
+.commandBox::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 6px;
+  background: #c95a96;
+  transition: width 0.4s ease-in;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.commandBox:hover::after {
+  width: 100%;
+}
+/* Guild Cards*/
+.card-guild {
+  border-radius: 10px;
+}
+.card-guild-info .card-guild:nth-child(1) {
+  background: rgba(255, 145, 171, 0.5);
+}
+.card-guild-info .card-guild:nth-child(2) {
+  background: rgba(147, 145, 255, 0.5);
+}
+.card-guild-info .card-guild:nth-child(3) {
+  background: rgba(145, 248, 255, 0.5);
+}

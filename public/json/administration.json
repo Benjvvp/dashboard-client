@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Ban",
+        "description": "With this command you can ban a user from your server."
+    },
+    {
+        "name": "BanList",
+        "description": "You can view a list of bans on the server."
+    },
+    {
+        "name": "Kick",
+        "description": "You can kick someone from your server."
+    },
+    {
+        "name": "UnBan",
+        "description": "You unban someone from your server."
+    },
+    {
+        "name": "Clear",
+        "description": "You delete messages from the channel on which you execute the command."
+    },
+    {
+        "name": "Set-Prefix",
+        "description": "You enter a prefix in the bot."
+    },
+    {
+        "name": "Set-Lang",
+        "description": "You set a language in the bot."
+    },
+    {
+        "name": "Unlock",
+        "description": "You unlock the channel on which you execute the command."
+    },
+    {
+        "name": "Lock",
+        "description": "You block the channel on which you execute the command."
+    },
+    {
+        "name": "SetNick",
+        "description": "You enter the nickname of a user"
+    },
+    {
+        "name": "ChannelTools",
+        "description": "You will open a menu in which you will find several tools to configure your channel."
+    },
+    {
+        "name": "AddRole",
+        "description": "Add a role to a user"
+    },
+    {
+        "name": "RemoveRole",
+        "description": "You remove a role from a user"
+    }
+]

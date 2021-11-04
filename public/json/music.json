@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Play",
+        "description": "Plays the entered song."
+    },
+    {
+        "name": "PlayList",
+        "description": "Plays the entered playlist."
+    },
+   {
+        "name": "Pause",
+        "description": "Pause the song."
+    },
+    {
+        "name": "Resume",
+        "description": "Continues the song"
+    },
+    {
+        "name": "Volume",
+        "description": "You change the volume at which the music is played."
+    },
+    {
+        "name": "Skip",
+        "description": "You advance the song."
+    },
+    {
+        "name": "Queue",
+        "description": "You can view the playback queue."
+    },
+    {
+        "name": "Playing",
+        "description": "You can see the song that is playing."
+    },
+    {
+        "name": "Stop",
+        "description": "You stop the song."
+    },
+    {
+        "name": "Lyrics",
+        "description": "You see the lyrics of the song entered or playing."
+    }
+]

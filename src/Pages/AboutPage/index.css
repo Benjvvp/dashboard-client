@@ -1,0 +1,52 @@
+.donate-box{
+    height: 25em;
+    margin-bottom: 10px;
+    box-shadow: 7px 7px 12px rgba(0, 0, 0, 0.25);
+    position: relative;
+}
+.hatsumedonation{
+    float: right;
+    width: 20%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.donate_button{
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-transform: uppercase;
+    width: 40% !important;
+    font-family: 'Open Sans', sans-serif;
+    margin: 1em;
+    font-size: 15px;
+    color: white !important;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Responsive */
+@media (max-width: 768px){
+    .donate-box{
+        margin-top: 4em;
+        margin-bottom: 10em;
+    }
+}
+@media (max-width: 375px){
+    .donate_button{
+        padding: 11px;
+        padding-left: 19px;
+        padding-right: 19px;
+    }
+} 
+@media (max-width: 320px){
+    .donate_button{
+        padding: 11px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+} 

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Avatar",
+        "description": "Send an image of a user's avatar."
+    },
+    {
+        "name": "Commands",
+        "description": "Displays the commands that the bot has."
+    },
+   {
+        "name": "Covid",
+        "description": "Displays information about covid."
+    },
+    {
+        "name": "Donate",
+        "description": "Send an embed with information about donations."
+    },
+    {
+        "name": "Help",
+        "description": "Command in which vital information about the bot is displayed."
+    },
+    {
+        "name": "Invite",
+        "description": "A server invitation is created."
+    },
+    {
+        "name": "Ping",
+        "description": "Provides information about the ping."
+    },
+    {
+        "name": "ServerInfo",
+        "description": "Provides information about the server on which the command is executed."
+    },
+    {
+        "name": "Stats",
+        "description": "Displays the bot statistics."
+    },
+    {
+        "name": "UserInfo",
+        "description": "Displays user information."
+    },
+    {
+        "name": "Vote",
+        "description": "Send an embed with the links where the bot can vote."
+    },
+    {
+        "name": "Structure",
+        "description": "The server structure is sent."
+    },
+    {
+        "name": "Permissions",
+        "description": "The user's permissions are displayed."
+    },
+    {
+        "name": "NPMSearch",
+        "description": "You are looking for any NPM.."
+    },
+    {
+        "name": "DJSDoc",
+        "description": "You can search for information about discord.js documentation.."
+    }
+]

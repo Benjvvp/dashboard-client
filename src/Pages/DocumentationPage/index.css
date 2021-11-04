@@ -1,0 +1,68 @@
+.commandC {
+  background: #1a1b22;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 50em;
+}
+.containerCommands{
+    overflow: auto !important;
+    height: 100%;
+}
+.containerCommands::-webkit-scrollbar {
+    width: 12px;
+}
+/* Handle */
+.containerCommands::-webkit-scrollbar-thumb {
+    background: #c95a96; 
+}
+.category {
+  padding: 1em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  transition: background 0.5s ease;
+  background: #1a1b22;
+  outline: none !important;
+  border: none !important;
+}
+.commandname{
+  border: none;
+  background: none;
+}
+.category:hover {
+  background: #c95a96;
+}
+.category-active {
+  background: #c95a96;
+}
+.command {
+  background-color: #1f1f24;
+  width: 75%;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.commandCE{
+    overflow: auto !important;
+    padding-bottom: 10%;
+}
+.command::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 6px;
+  background: #c95a96;
+  transition: width 0.4s ease-in;
+  position:absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.command:hover::after {
+  width: 100%;
+}
+.color-gray {
+  color: #b6b6b6;
+}
+
+.iconrrowfloat{
+  float: right;
+}

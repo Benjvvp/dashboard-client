@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Calculate",
+        "description": "You can calculate the operation of your choice!."
+    },
+    {
+        "name": "ColorHex",
+        "description": "You can display an HTML color."
+    },
+    {
+        "name": "Nuke",
+        "description": "The channel is deleted and duplicated in the same way but without the messages clearly."
+    },
+    {
+        "name": "RandomNumber",
+        "description": "A random number between 2 values is generated."
+    },
+    {
+        "name": "RandomUser",
+        "description": "A random server user is generated."
+    },
+    {
+        "name": "Reminder",
+        "description": "You indicate the time and it notifies you."
+    },
+    {
+        "name": "Reverse",
+        "description": "You enter the text and it returns the text backwards."
+    },
+    {
+        "name": "Weather",
+        "description": "You see the weather in your area."
+    },
+    {
+        "name": "WikiRandom",
+        "description": "Redirects you somewhere on wikipedia random."
+    },
+    {
+        "name": "Suggest",
+        "description": "You send a suggestion to the bot."
+    },
+    {
+        "name": "Generate-Password",
+        "description": "You generate a random password with the characters entered."
+    },
+    {
+        "name": "InfoEmoji",
+        "description": "Displays emoji information."
+    }
+]
